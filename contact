@@ -1,1 +1,28 @@
 
+<body>
+   
+   <script>
+        window.ChannelsSettings = {
+          appId: "ujhhw"
+        };
+      </script>
+      <script defer src="https://web-call.channels.app/widget.js"></script>
+    
+	
+	<div id="container">
+		<div id="logo">
+			<h1>GOLD BAR WEIGHT CALCULATOR</h1>
+		</div>
+	
+	
+	<div id="nav">
+		ABOUT<br/>
+		GOLD PRICE LIVE<br/>
+	</div>
+	
+	<div id="content">
+		<h2>+44 20 7946 0196</h2><br/>
+		<h2>+44 2079 460196 </h2><br/>
+		<h2>+44 1632 960562</h2>
+	</div>
+  </body>
